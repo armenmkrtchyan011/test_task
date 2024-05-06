@@ -1,0 +1,77 @@
+{
+  "metadata": [
+    {
+      "company_id": "111",
+      "name": "Oracle Corporation",
+      "ticker_symbol": "ORCL"
+    },
+    {
+      "company_id": "222",
+      "name": "Chevron Corporation",
+      "ticker_symbol": "CVX"
+    },
+    {
+      "company_id": "333",
+      "name": "Bank of America Corporation",
+      "ticker_symbol": "BAC"
+    }
+  ],
+  "price_equity": [
+    {
+      "company_id": "111",
+      "trading_item_id": "T7921805",
+      "change": 40
+    },
+    {
+      "company_id": "222",
+      "trading_item_id": "T60728942",
+      "calendar_year": 2024,
+      "change": 50
+    },
+    {
+      "company_id": "333",
+      "trading_item_id": "T7869692",
+      "calendar_year": 2024,
+      "change": 20
+    }
+  ],
+  "raw": [
+    {
+      "company_id": "111",
+      "trading_item_id": "T326411756",
+      "price": 400
+    },
+    {
+      "company_id": "222",
+      "trading_item_id": "T7868639",
+      "calendar_year": 2024,
+      "price": 200
+    },
+    {
+      "company_id": "333",
+      "trading_item_id": "T60672515",
+      "calendar_year": 2024,
+      "price": 700
+    }
+  ],
+  "score": [
+    {
+      "company_id": "111",
+      "trading_item_id": "T326411756",
+      "calendar_year": 2024,
+      "rate": 5
+    },
+    {
+      "company_id": "222",
+      "trading_item_id": "T7868639",
+      "calendar_year": 2024,
+      "rate": 3
+    },
+    {
+      "company_id": "333",
+      "trading_item_id": "T7868639",
+      "calendar_year": 2024,
+      "rate": 6
+    }
+  ]
+}
